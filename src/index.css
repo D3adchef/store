@@ -1,0 +1,8 @@
+/* src/index.css */
+html, body {
+  background-color: #000;
+  color: #f5f5f5; /* light gray text for contrast */
+  margin: 0;
+  padding: 0;
+  font-family: 'Georgia', serif;
+}
