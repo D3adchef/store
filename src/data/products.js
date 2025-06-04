@@ -27,7 +27,7 @@ const products = [
     name: "Bat Poncho",
     price: 70.0,
     description: "Flowing black cloak with subtle wing cuts along the edges and hidden inner pockets.",
-    img: import.meta.env.BASE_URL + 'images/products/batponcho.png'
+    img: import.meta.env.BASE_URL + 'images/products/batPoncho.png'
   },
   {
     id: 5,
@@ -55,7 +55,7 @@ const products = [
     name: "Mourner Dress Shirt",
     price: 60.0,
     description: "A formal look for the fashionable deceased. This dress shirt is stitched from reclaimed fabric and finished with distressed cuffs, blood-toned buttons, and a high collar.",
-    img: import.meta.env.BASE_URL + 'images/products/dressshirt.png'
+    img: import.meta.env.BASE_URL + 'images/products/dressShirt.png'
   },
   {
     id: 9,
@@ -69,7 +69,7 @@ const products = [
     name: "Female Monster Patchwork Jacket",
     price: 129.0,
     description: "One-of-a-kind vintage monsters jacket using scraps from vintage fabrics, leather, canvas, and denim. No two are alike.",
-    img: import.meta.env.BASE_URL + 'images/products/jacketfemale.png'
+    img: import.meta.env.BASE_URL + 'images/products/jacketFemale.png'
   },
   {
     id: 11,
